@@ -12,7 +12,7 @@ Bundle.js file can be linked in any index.html where ever you want to use
 ## <script type="text/javascript" src="./dist/bundle.js"></script>
 
 Use HTML snippet
- <div id="myModal" class="modal">
+ <!-- <div id="myModal" class="modal">
     <div class="container">
     <div class="modal-header">
       <span class="close">&times;</span>
@@ -23,6 +23,6 @@ Use HTML snippet
       </div>
     </div>
   </div>
-  </div>
+  </div> -->
 
 
